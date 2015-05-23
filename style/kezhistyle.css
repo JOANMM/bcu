@@ -1,0 +1,25 @@
+.icon1-k1 {
+	background:url([[pix:theme|img/mooc_icon]]) no-repeat center;
+}
+.icon2-k1 {
+	background:url([[pix:theme|img/weike_icon]]) no-repeat center;
+}
+.icon3-k1 {
+	background:url([[pix:theme|img/moodle_icon]]) no-repeat center;
+}
+.boxk1 .icon {
+	padding: 10px;
+	display: block;
+	width: 190px;
+	height: 190px;
+	border: 1px solid #000;
+	border-radius: 190px;
+	margin: 20px auto;
+	transition:0.2s ease-out;
+}
+.boxk1 .icon:hover{
+	transform:rotate(360deg) scale(1.2);
+}
+.boxk1{
+	text-align: center;
+}
